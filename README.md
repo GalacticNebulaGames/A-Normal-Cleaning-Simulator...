@@ -52,7 +52,7 @@ TODO
 - 5 nights
 	- Instead of one long night. span it across five nights
 - Endless mode
-	- Normally you would be in 1/5 n ights. A story mode. but there would be an endless mode with a timer to see how long you last.
+	- Normally you would be in 1-5 nights. A story mode. but there would be an endless mode with a timer to see how long you last.
 - Savespots.
   - tablets in story mode that let you save your progress. NOT IN ENDLESS MODE.	
 
