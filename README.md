@@ -31,7 +31,7 @@ The setting is Wollongong mall. At night...
 - Energy
 	- stamina bar at bottom
 	- eat bar to refill stamina instantly
-	- otherwhise it will take 2 mins to fully recharge
+	- otherwise it will take 45 secs to fully recharge
 - Looking
 	- if you look at the hallway dweller for too long will slowly fade your screen to black then play a jumscare then game over.
 - Youtube influencers
