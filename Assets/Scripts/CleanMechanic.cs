@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CleanMechanic : MonoBehaviour
 {
+   
     // Start is called before the first frame update
     void Start()
     {
@@ -25,10 +26,16 @@ public class CleanMechanic : MonoBehaviour
                 if (hit.collider.gameObject.CompareTag("Rubbish"))
                 {
                
-                 GameObject.Destroy (hit.collider.gameObject) ;
+                 
+                 var numRubbish = GameObject.FindGameObjectsWithTag("Rubbish").Length;
+                 Debug.Log ($"Rubbish: {numRubbish}");
                   
-                  
-                  
+                  GameObject.Destroy (hit.collider.gameObject) ;
+                  if(numRubbish <= 1){ 
+                   var go = GameObject.FindWithTag ("GameManager");
+                   var gm = go.GetComponent<GameManager>();
+                    gm.HandleNightEnd();
+                  }
                   
                   
                      //Do something if the hit object has the "rubbish tag
