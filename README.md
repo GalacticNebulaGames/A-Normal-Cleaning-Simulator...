@@ -10,6 +10,8 @@
 | Feature Lock    | 14/11/23                     |
 | Release         | 21/12/23                     |
 
+## [Demo](https://galacticnebulagames.github.io/A-Normal-Cleaning-Simulator.../)
+
 ## Theme
 
 The setting is Wollongong mall. At night...
