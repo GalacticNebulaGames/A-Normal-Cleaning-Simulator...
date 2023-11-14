@@ -58,6 +58,9 @@ TODO
 - Savespots.
   - tablets in story mode that let you save your progress. NOT IN ENDLESS MODE.	
 
+  -End of the story
+   -when you complete all five nights text comes on a black screen reading "REDACTED".
+    -The text fades away to shhow anothe text saying "New Mode Unlocked: Endless and a button going back to menu.
 
 ## References
 - Wollongong mall
